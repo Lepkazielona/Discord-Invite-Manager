@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "VQklkrlh8jiQc5KAvitgwAfXKHPlFElf6dgtLo/qPsNw5rJrKA2/F4BC+ee6+NMZ5poBNHFgS0vzZnVppVg9Dw==",
+  "success": true,
+  "projectFilePath": "D:\\Programowanie\\IDE-Project\\Rider-Projects\\DiscordInviteCounter\\DiscordInviteCounter\\DiscordInviteCounter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mikolaj\\.nuget\\packages\\discord.net\\3.2.0\\discord.net.3.2.0.nupkg.sha512",
+    "C:\\Users\\Mikolaj\\.nuget\\packages\\discord.net.commands\\3.2.0\\discord.net.commands.3.2.0.nupkg.sha512",
+    "C:\\Users\\Mikolaj\\.nuget\\packages\\discord.net.core\\3.2.0\\discord.net.core.3.2.0.nupkg.sha512",
+    "C:\\Users\\Mikolaj\\.nuget\\packages\\discord.net.interactions\\3.2.0\\discord.net.interactions.3.2.0.nupkg.sha512",
+    "C:\\Users\\Mikolaj\\.nuget\\packages\\discord.net.rest\\3.2.0\\discord.net.rest.3.2.0.nupkg.sha512",
+    "C:\\Users\\Mikolaj\\.nuget\\packages\\discord.net.webhook\\3.2.0\\discord.net.webhook.3.2.0.nupkg.sha512",
+    "C:\\Users\\Mikolaj\\.nuget\\packages\\discord.net.websocket\\3.2.0\\discord.net.websocket.3.2.0.nupkg.sha512",
+    "C:\\Users\\Mikolaj\\.nuget\\packages\\microsoft.data.sqlite\\6.0.1\\microsoft.data.sqlite.6.0.1.nupkg.sha512",
+    "C:\\Users\\Mikolaj\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.1\\microsoft.data.sqlite.core.6.0.1.nupkg.sha512",
+    "C:\\Users\\Mikolaj\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mikolaj\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\Mikolaj\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Mikolaj\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.6\\sqlitepclraw.bundle_e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\Mikolaj\\.nuget\\packages\\sqlitepclraw.core\\2.0.6\\sqlitepclraw.core.2.0.6.nupkg.sha512",
+    "C:\\Users\\Mikolaj\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.6\\sqlitepclraw.lib.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\Mikolaj\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.6\\sqlitepclraw.provider.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\Mikolaj\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mikolaj\\.nuget\\packages\\system.interactive.async\\5.0.0\\system.interactive.async.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mikolaj\\.nuget\\packages\\system.linq.async\\5.0.0\\system.linq.async.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mikolaj\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Mikolaj\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mikolaj\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\Mikolaj\\.nuget\\packages\\tommy\\3.1.2\\tommy.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
