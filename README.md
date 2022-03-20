@@ -1,2 +1,3 @@
 # Discord-Invite-Menager
-/Users/mikolaj/Documents/GitHub/Discord-Invite-Menager/src/README.md
+
+## This is my abandoned project, maybe i will finish it sometime
